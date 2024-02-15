@@ -81,4 +81,13 @@ No data modelling was required since we need just a table for the analysis.
 
 ### Project Analysis:
 From the analysis, i made the Key Performance findings below:
-- The Total Number of Women used for this analysis is __1,014__.
+- The Total Number of Trades is __9,204__.
+- Total Traded Volume is __536bn__.
+- Average Open Price is __$44.38__
+- Average Close Price is __$44.39__.
+- Average Adjusted Close Price is __$39.20__.
+- Average Price Range is __$0.96
+
+- <img src="images/Microsoft_Stock_Average_Open_Price_Trend_By_Month.jpg" width="250">
+- **Microsoft Stock Average Open Price Trend By Month:**
+- In this analysis,
