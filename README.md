@@ -13,7 +13,7 @@ The __Microsoft Stock Market (1986-2022) Analysis__ project aims to delve into t
 - To identify Microsoft's stocks high, low, and close price trend over time.
 - To identify Microsoft's stocks prices cumulative returns trend over time.
 
-## Expected Ouctomes:
+## Expected Outcomes:
 - Clear insights into monthly average opening prices, revealing historical trends and fluctuations.
 - Understanding of monthly average closing prices, highlighting historical patterns and variations.
 - Identification of trading volume patterns across weekdays, providing insights into market activity.
@@ -86,8 +86,8 @@ From the analysis, i made the Key Performance findings below:
 - Average Open Price is __$44.38__
 - Average Close Price is __$44.39__.
 - Average Adjusted Close Price is __$39.20__.
-- Average Price Range is __$0.96
+- Average Price Range is __$0.96__>
 
-- <img src="images/Microsoft_Stock_Average_Open_Price_Trend_By_Month.jpg" width="250">
+- <img src="images/Microsoft_Stock_Average_Open_Price_Trend_By_Month.jpg" width="500">
 - **Microsoft Stock Average Open Price Trend By Month:**
 - In this analysis,
