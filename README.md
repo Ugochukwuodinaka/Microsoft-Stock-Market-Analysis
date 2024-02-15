@@ -1,5 +1,5 @@
 # Microsoft Stock Market (1986-2022) Analysis
-![](Microsoft_Stock_Market_image.jpg)
+![](images/Microsoft_Stock_Market_image.jpg)
 
 ## Project Overview
 
@@ -22,7 +22,7 @@ The __Microsoft Stock Market (1986-2022) Analysis__ project aims to delve into t
 
 
 ### Dataset Overview
-This dataset contains a Stock Market Analysis of Microsoft Corporation (MSFT) from its Founding / Listing Years which are 1986 to 2022. In this dataset, daily price and the changes within the day can be seen. The highest and lowest prices for every single day help in identifying patterns at the minuscule level. Volume per day is also recorded. The dataset used in this analysis was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). You can also download this dataset [here](MSFT.csv). It is a .csv file of Microsoft Stock market trades between 1986 and 2022, displaying updates of OHLC (Open, High, Low, Close), Trading Date, Volume, and Adjusted Close. 
+This dataset contains a Stock Market Analysis of Microsoft Corporation (MSFT) from its Founding / Listing Years which are 1986 to 2022. In this dataset, daily price and the changes within the day can be seen. The highest and lowest prices for every single day help in identifying patterns at the minuscule level. Volume per day is also recorded. The dataset used in this analysis was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). You can also download this dataset [here](images/MSFT.csv). It is a .csv file of Microsoft Stock market trades between 1986 and 2022, displaying updates of OHLC (Open, High, Low, Close), Trading Date, Volume, and Adjusted Close. 
 
 The dataset contains 1 sheet/table,  7columns, and 9,204 rows of data. The columns includes:
 - __Open:__ The price at which a stock's first trade occurs when the market opens for the day. It indicates the starting point for trading activity and sets the initial value of the stock for that day.
@@ -34,6 +34,51 @@ The dataset contains 1 sheet/table,  7columns, and 9,204 rows of data. The colum
 - __Adjusted Close:__ The closing price of a stock adjusted for factors such as dividends, stock splits, or other corporate actions that may affect the stock's price. This adjusted value helps in providing a more accurate representation of the stock's true performance over time, particularly when comparing historical data.
 
 
+### Tools Used
+1. Power Query Editor
+    - Was used to:
+        1. Extract,
+        2. Transform, and
+        3. Load all the datasets for this analysis.
+           
+2. Power BI (Was used to create reports and dashboard for this analysis)
+    - The following Power BI Features were incorporated:
+        1. DAX
+        2. Quick Measures
+        3. Page Navigation
+        4. Filters
+        5. Tooltips
 
 
+### Data Cleaning, Transformation and Loading using the Power Query Editor:
+1. Changed all column data types to the appropriate data types.
+2. Duplicated the __"Date"__ column.
+3. Created a new column __"Year"__ from the duplicate __Date__ column and changed the data type to int64.
+4. Created a new custom column from the __"Date"__ column named __"DayOfWeek"__ (sunday - saturday) using the "If function".
+5. Removed the initial duplicate column created from the __Date__ column.
+6. Made sure that there was no columns with error or null values, and made sure all columns reported a 100% valid column quality.
 
+**Raw Data**
+- Below a screenshot of a part of the raw data in .csv file format. You can download the dataset [here](images/MSFT.csv).
+
+![](images/Raw_Data_image.png)
+
+
+**Cleaned Data Power Query Editor screenshot**
+- Below is a screenshot of a part of the cleaned data in power query editor. You can access the full Power BI project document [here](https://github.com/Ugochukwuodinaka/Microsoft-Stock-Market-Analysis/blob/main/MICROSOFT%20STOCK%20MARKET%20ANALYSIS.pbix).
+
+![](images/Power_Query_Cleaned_Data_image.png)
+
+
+## Data Modelling
+No data modelling was required since we need just a table for the analysis.
+
+
+## Visualization in Power BI:
+### Report Image
+![](images/Microsoft_Stock_Market_(1986-2022)_Analysis_Dashboard.jpg)
+
+
+### Project Analysis:
+From the analysis, i made the Key Performance findings below:
+- The Total Number of Women used for this analysis is __1,014__.
