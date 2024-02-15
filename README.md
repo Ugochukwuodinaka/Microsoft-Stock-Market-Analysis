@@ -86,7 +86,7 @@ From the analysis, i made the Key Performance findings below:
 - Average Open Price is __$44.38__
 - Average Close Price is __$44.39__.
 - Average Adjusted Close Price is __$39.20__.
-- Average Price Range is __$0.96__>
+- Average Price Range is __$0.96__.
 
 - <img src="images/Microsoft_Stock_Average_Open_Price_Trend_By_Month.jpg" width="600">
 - **Microsoft Stock Average Open Price Trend By Month:**
