@@ -88,6 +88,18 @@ From the analysis, i made the Key Performance findings below:
 - Average Adjusted Close Price is __$39.20__.
 - Average Price Range is __$0.96__.
 
+
+- <img src="images/Volume_Traded_By_Day_Of_Week.jpg.jpg" width="300">
+- **Total Volume Traded By Days Of The Week Trend:**
+- In my analysis of the total volume traded by days of the week, i made interesting observations which was revealed through insights generated from the market activity patterns:
+- __Peak Trading Days:__  Wednesdays and Fridays consistently emerge as the busiest trading days, with total volumes of 111,675,072,600bn and 111,175,803,100bn respectively. This suggests heightened market participation and increased trading activity towards the middle and end of the week.
+- __Midweek Momentum:__ Wednesdays, in particular, stand out as the busiest trading day of the week. This midweek surge in trading volume may be attributed to factors such as the release of economic data, corporate earnings announcements, or investor positioning ahead of market-moving events.
+- __End-of-Week Activity:__ Fridays also witness significant trading volumes, likely driven by factors such as portfolio rebalancing, options expiry, and profit-taking ahead of the weekend. Traders may adjust their positions before the market closes for the week, contributing to the heightened activity on Fridays.
+- __Consistent Trends:__ Thursdays and Tuesdays follow closely behind Wednesdays and Fridays in terms of total trading volume with 109,479,054,400bn shares and 109,155,926,400bn shares traded respectively. This indicates a consistent level of market activity throughout the week, with traders actively participating in the market on these days as well.
+- __Monday Lag:__ Mondays exhibit relatively lower trading volumes compared to the rest of the week, with a total volume of 94,569,071,100bn. This could be attributed to factors such as the market digesting news and events over the weekend, leading to a slower start to the trading week.
+
+
+
 - <img src="images/Microsoft_Stock_Average_Open_Price_Trend_By_Month.jpg" width="600">
 - **Microsoft Stock Average Open Price Trend By Month:**
 - In this analysis of the monthly average opening prices for Microsoft stock from 1986 to 2022 several interesting trends and fluctuations are revealed:
