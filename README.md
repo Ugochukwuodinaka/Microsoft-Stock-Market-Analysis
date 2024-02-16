@@ -1,6 +1,15 @@
 # Microsoft Stock Market (1986-2022) Analysis
 ![](images/Microsoft_Stock_Market_image.jpg)
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Dataset Overview](#dataset-overview)
+- [Tools Used](#tools-used)
+- [Visualization in Power BI](#visualization-in-power-bi)
+- [Project Analysis](#project-analysis)
+- [Visuals in Power BI Report](#visuals-in-power-bi-report)
+
+
 ## Project Overview
 
 ### Introduction:
