@@ -106,3 +106,16 @@ From the analysis, i made the Key Performance findings below:
 - __Outliers and Anomalies:__ Certain months, such as October with an average close price of $41.39, deviate significantly from the overall trend. Such anomalies may be attributed to specific events affecting Microsoft's stock performance during those periods.
 - __Market Sentiment and Events:__ Fluctuations in average close prices often coincide with changes in market sentiment or significant company-related events. Higher average close prices may be associated with positive news like strong earnings or successful product launches, while lower prices may reflect negative developments or market uncertainties.
 - __Investor Sentiment:__ Investor sentiment plays a pivotal role in shaping monthly average close prices. Positive sentiment, driven by favorable news or growth prospects, tends to drive prices up, while negative sentiment can lead to declines.
+
+
+- <img src="images/Mixrosoft_Stock_High_Low_and_Close_Price_Trend_Oover_Time.jpg" width="600">
+- **Microsoft Stocks High, Low and Close Price Trend Over Time:**
+- Analyzing the trends in Microsoft's high, low, and close prices over time provides insights into the stock's performance and market dynamics:
+- __High Price Trend:__ Microsoft's high prices have shown steady growth over the years, with occasional fluctuations. The highest point was reached in 2021, reaching an impressive $70,060.54. This upward trend reflects the company's overall success and market perception of its growth prospects.
+- __Low Price Trend:__ Similarly, Microsoft's low prices have generally followed an upward trajectory, albeit with occasional dips. The lowest point was recorded in 1986 at $23.51, and since then, the low prices have steadily increased. This suggests improved market stability and confidence in Microsoft's performance over time.
+- __Close Price Trend:__ The close prices of Microsoft stock also exhibit a consistent upward trend, reflecting the company's long-term growth and profitability. The highest close price was observed in 2021 at $69,537.07. This indicates sustained investor confidence and positive market sentiment towards Microsoft.
+- In summary, the analysis of high, low, and close price trends reveals Microsoft's remarkable growth and resilience in the stock market over the past several decades. Investors can use these insights to assess the stock's historical performance and make informed decisions regarding investment strategies.
+
+
+
+
