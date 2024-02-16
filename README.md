@@ -33,7 +33,7 @@ The __Microsoft Stock Market (1986-2022) Analysis__ project aims to delve into t
 
 
 ### Dataset Overview
-This dataset contains a Stock Market Analysis of Microsoft Corporation (MSFT) from its Founding / Listing Years which are 1986 to 2022. In this dataset, daily price and the changes within the day can be seen. The highest and lowest prices for every single day help in identifying patterns at the minuscule level. Volume per day is also recorded. The dataset used in this analysis was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). You can also download this dataset [here](images/MSFT.csv). It is a .csv file of Microsoft Stock market trades between 1986 and 2022, displaying updates of OHLC (Open, High, Low, Close), Trading Date, Volume, and Adjusted Close. 
+This dataset contains a Stock Market Analysis of Microsoft Corporation (MSFT) from its Founding / Listing Years which are 1986 to 2022. In this dataset, daily price and the changes within the day can be seen. The highest and lowest prices for every single day help in identifying patterns at the minuscule level. Volume per day is also recorded. The dataset used in this analysis was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). You can also download this dataset [here](MSFT.csv). It is a .csv file of Microsoft Stock market trades between 1986 and 2022, displaying updates of OHLC (Open, High, Low, Close), Trading Date, Volume, and Adjusted Close. 
 
 The dataset contains 1 sheet/table,  7columns, and 9,204 rows of data. The columns includes:
 - __Open:__ The price at which a stock's first trade occurs when the market opens for the day. It indicates the starting point for trading activity and sets the initial value of the stock for that day.
@@ -70,7 +70,7 @@ The dataset contains 1 sheet/table,  7columns, and 9,204 rows of data. The colum
 6. Made sure that there was no columns with error or null values, and made sure all columns reported a 100% valid column quality.
 
 **Raw Data**
-- Below a screenshot of a part of the raw data in .csv file format. You can download the dataset [here](images/MSFT.csv).
+- Below a screenshot of a part of the raw data in .csv file format. You can download the dataset [here](MSFT.csv).
 
 ![](images/Raw_Data_image.png)
 
