@@ -4,6 +4,8 @@
 ## Project Overview
 
 ### Introduction:
+Microsoft Corporation is an American multinational technology corporation which produces computer software, consumer electronics, personal computers, and related services headquartered at the Microsoft Redmond campus located in Redmond, Washington, United States. Its best-known software products are the Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 21 in the 2020 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world's largest software maker by revenue as of 2019. It is one of the Big Five American information technology companies, alongside Google, Amazon, Apple, and Meta.
+
 The __Microsoft Stock Market (1986-2022) Analysis__ project aims to delve into the historical performance of Microsoft Corporation's stock in the period spanning from its initial public offering (IPO) in 1986 to the end of 2022. This comprehensive analysis will provide insights into the long-term trends, volatility, key events, and factors influencing Microsoft's stock market performance over more than three decades.
 
 ### Objectives:
@@ -157,3 +159,7 @@ From the analysis, i made the Key Performance findings below:
 - __Milestone Years:__ Several years stand out with significant milestones in Microsoft's stock prices. For example, 1999 saw a substantial increase in stock price, reaching $11,029.22, driven by the dot-com boom and widespread adoption of Microsoft products. Similarly, 2021 witnessed a surge in stock price value to $69,537.07, reflecting strong financial performance and investor optimism.
 - __Market Response:__ Microsoft's stock prices often respond to key events and announcements, such as product launches, earnings reports, and strategic initiatives. Positive news tends to drive prices higher, while negative developments may lead to temporary declines. 
 - __Long-Term Investment:__ Despite short-term fluctuations, the overall trend of Microsoft's stock prices demonstrates the company's resilience and long-term growth potential. Investors who have held onto Microsoft stock over the years have likely benefited from significant capital appreciation and returns on investment.
+
+
+## Visuals in Power BI Report:
+You can view and interact with this dashboard report on this Microsoft Stock Market (1986-2022) Analysis project [here](https://app.powerbi.com/view?r=eyJrIjoiMmM5ZTJiYTEtNTdlMi00ZDY5LWJjMWItODdhNzUzMzQ4NDM4IiwidCI6IjdlYzI5NjU5LTNjZjItNGYzZi1hYmIzLWE3MjJlZGY3ZmYyZCJ9).
