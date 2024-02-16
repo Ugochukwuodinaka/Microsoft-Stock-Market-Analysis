@@ -91,7 +91,7 @@ From the analysis, i made the Key Performance findings below:
 - Average Price Range is __$0.96__.
 
 
-- <img src="images/Volume_Traded_By_Day_Of_Week.jpg" width="300">
+- <img src="images/Volume_Traded_By_Day_Of_Week.jpg" width="250">
 - **Total Volume Traded By Days Of The Week Trend:**
 - In my analysis of the total volume traded by days of the week, i made interesting observations which was revealed through insights generated from the market activity patterns:
 - __Peak Trading Days:__  Wednesdays and Fridays consistently emerge as the busiest trading days, with total volumes of 111,675,072,600bn and 111,175,803,100bn respectively. This suggests heightened market participation and increased trading activity towards the middle and end of the week.
