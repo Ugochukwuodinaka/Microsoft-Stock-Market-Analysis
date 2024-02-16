@@ -117,5 +117,13 @@ From the analysis, i made the Key Performance findings below:
 - In summary, the analysis of high, low, and close price trends reveals Microsoft's remarkable growth and resilience in the stock market over the past several decades. Investors can use these insights to assess the stock's historical performance and make informed decisions regarding investment strategies.
 
 
+- <img src="images/Mixrosoft_Stock_Price_Cumulative_Returns_Trend_Over_Time.jpg" width="600">
+- **Microsoft Stocks Prices Cumulative Returns Trend Over Time:**
+- Analyzing the cumulative returns trend of Microsoft stock prices over time provides insights into the stock's overall performance and growth trajectory:
+- __Steady Growth:__ Microsoft's cumulative returns have shown consistent growth over the years, reflecting the company's long-term success and value appreciation. The cumulative returns have steadily increased from $14.99 in 1986 to $50,056.25 in 2022, indicating substantial wealth creation for investors over the analyzed period.
+- __Acceleration in Growth:__ The pace of cumulative returns growth has accelerated in recent years, particularly from the late 1990s onwards. This period coincides with significant milestones and developments for Microsoft, such as the expansion into new markets, strategic acquisitions, and the emergence of innovative technologies.
+- __Market Resilience:__ Despite occasional downturns and market fluctuations, Microsoft's cumulative returns have demonstrated resilience and the ability to recover and continue on an upward trajectory. This resilience reflects the company's strong fundamentals, diverse revenue streams, and adaptability to changing market conditions.
+- __Outperformance:__ Microsoft's cumulative returns have consistently outperformed broader market indices and benchmarks, highlighting the company's exceptional performance compared to its peers and the broader market. This outperformance underscores Microsoft's position as a leading player in the technology sector and its ability to deliver value to shareholders over time.
+- __Investment Potential:__ The analysis of cumulative returns trend suggests that Microsoft stock has been a rewarding investment over the long term, offering investors significant returns and capital appreciation. This may attract further investor interest and confidence in Microsoft's future growth prospects.
 
 
