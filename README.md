@@ -127,3 +127,11 @@ From the analysis, i made the Key Performance findings below:
 - __Investment Potential:__ The analysis of cumulative returns trend suggests that Microsoft stock has been a rewarding investment over the long term, offering investors significant returns and capital appreciation. This may attract further investor interest and confidence in Microsoft's future growth prospects.
 
 
+- <img src="images/Microsoft_Stock_Traded_Volume_Over_Time.jpg" width="600">
+- **Microsoft Stock Traded Volume Over Time:**
+- In analyzing the traded volume of Microsoft stock over time, i provided insights into market activity and investor interest:
+- __Historical Trends:__ The traded volume of Microsoft stock has fluctuated over the years, reflecting changes in market conditions, investor sentiment, and company performance. From 1986 to 2022, total traded volumes have varied significantly, with peaks and troughs observed at different points in time.
+- __Peak Years:__ Some years stand out with exceptionally high traded volumes, indicating heightened market activity and investor participation. For instance, 1987 saw a substantial increase in traded volume, reaching 23,920,171,200bn shares. This could be attributed to significant market events, such as the stock market crash of that year.
+- __Recent Trends:__ In recent years, there has been a general decline in traded volumes compared to previous decades which ended with 5,690,658,600bn shares traded in 2022. However, there are still fluctuations from year to year, reflecting ongoing market dynamics and changes in investor behavior.
+- __Market Sentiment:__ Traded volume often reflects investor sentiment and interest in a particular stock. Higher volumes may indicate increased investor confidence or speculation, while lower volumes may suggest caution or lack of interest.
+- __Implications for Investors:__ An understanding of traded volume trends can help investors gauge market sentiment and identify potential trading opportunities. High volumes may present opportunities for short-term trading or liquidity, while low volumes may signal a lack of market interest or potential price volatility.
