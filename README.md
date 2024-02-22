@@ -8,7 +8,7 @@
 - [Visualization in Power BI](#visualization-in-power-bi)
 - [Project Analysis](#project-analysis)
 - [Visuals in Power BI Report](#visuals-in-power-bi-report)
-- [Recommendations To Enhance Microsoft's Performance In The Stock Market](#recommendations-to-enhance-microsoft's-performance-in-the-stock-market)
+- [Recommendations To Enhance Microsoft's Performance In The Stock Market](#recommendations-to-enhance-microsofts-performance-in-the-stock-market)
 
 
 ## Project Overview
