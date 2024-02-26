@@ -46,6 +46,14 @@ The dataset contains 1 sheet/table,  7columns, and 9,204 rows of data. The colum
 - __Adjusted Close:__ The closing price of a stock adjusted for factors such as dividends, stock splits, or other corporate actions that may affect the stock's price. This adjusted value helps in providing a more accurate representation of the stock's true performance over time, particularly when comparing historical data.
 
 
+### Skills Utilized
+1. Data Cleaning
+2. Data Visualiziation
+3. Descriptive Analytics
+4. Critical Thinking and Problem Solving
+5. Communication and Reporting
+
+
 ### Tools Used
 1. Power Query Editor
     - Was used to:
@@ -184,3 +192,4 @@ You can view and interact with this dashboard report on this Microsoft Stock Mar
 - __Global Expansion:__ Expanding into emerging markets and strengthening presence in key regions can unlock new growth opportunities for Microsoft. Tailoring products and services to local market needs and fostering strategic partnerships can facilitate market penetration and revenue diversification.
 - __Talent Development:__ Investing in talent development and retaining top talent is critical for sustaining innovation and maintaining competitive advantage. Microsoft should focus on attracting diverse talent, fostering a culture of creativity and collaboration, and providing opportunities for professional growth and development.
 
+## Thank You For Following Through!
