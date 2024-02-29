@@ -70,13 +70,13 @@ The dataset contains 1 sheet/table,  7columns, and 9,204 rows of data. The colum
         5. Tooltips
 
 
-### Data Cleaning, Transformation and Loading using the Power Query Editor:
+### Data Cleaning, Transformation and Loading using MS Sql Server:
 1. Changed all column data types to the appropriate data types.
 2. Duplicated the __"Date"__ column.
-3. Created a new column __"Year"__ from the duplicate __Date__ column and changed the data type to int64.
-4. Created a new custom column from the __"Date"__ column named __"DayOfWeek"__ (sunday - saturday) using the "If function".
-5. Removed the initial duplicate column created from the __Date__ column.
-6. Made sure that there was no columns with error or null values, and made sure all columns reported a 100% valid column quality.
+3. Created a new column __"Year"__ from the duplicate __Date__ column and changed the data type to int.
+4. Created a new custom column from the __"Date"__ column named __"DayOfWeek"__ (sunday - saturday) using the "Update" and "Set query".
+5. Removed the initial duplicate column __"New_Date" __created from the __"Date"__ column.
+6. Made sure that there was no columns with error or null values, and made sure all columns were valid.
 
 **Raw Data**
 - Below a screenshot of a part of the raw data in .csv file format. You can download the dataset [here](MSFT.csv).
@@ -84,10 +84,10 @@ The dataset contains 1 sheet/table,  7columns, and 9,204 rows of data. The colum
 ![](images/Raw_Data_image.png)
 
 
-**Cleaned Data Power Query Editor screenshot**
-- Below is a screenshot of a part of the cleaned data in power query editor. You can access the full Power BI project document [here](https://github.com/Ugochukwuodinaka/Microsoft-Stock-Market-Analysis/blob/main/MICROSOFT%20STOCK%20MARKET%20ANALYSIS.pbix).
+**Cleaned Data MS Sql query screenshot**
+- Below is a screenshot of a part of the cleaned data in MS Sql Sever. You can access the full Power BI project document [here](MICROSOFT%20STOCK%20MARKET%20ANALYSIS.pbix).
 
-![](images/Power_Query_Cleaned_Data_image.png)
+![](images/MS_Sql_Server_Screenshot.png)
 
 
 ## Data Modelling
