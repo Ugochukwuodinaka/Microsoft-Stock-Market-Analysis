@@ -80,9 +80,12 @@ The dataset contains 1 sheet/table,  7columns, and 9,204 rows of data. The colum
 6. Made sure that there was no columns with error or null values, and made sure all columns were valid.
 
 **Raw Data**
-- Below a screenshot of a part of the raw data in .csv file format. You can download the dataset [here](MSFT.csv).
-
+- Below a screenshot of a part of the raw data in .csv file format. 
+Raw Data Screenshot                                                               |                       
+:---------------------------------------------------------------------------------:|
 ![](images/Raw_Data_image.png)
+
+You can preview the dataset [here](MSFT.csv).
 
 
 **Cleaned Data MS Sql query screenshot**
@@ -99,6 +102,7 @@ You can access the MS Sql Server query file [here](Microsoft_Stock_Market_Analys
 
 ## Data Modelling
 No data modelling was required since we need just a table for the analysis.
+
 
 
 ## Visualization in Power BI:
