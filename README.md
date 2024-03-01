@@ -90,7 +90,7 @@ You can preview the dataset [here](MSFT.csv).
 
 
 **Cleaned Data MS Sql query screenshot**
-- Below is a screenshot of a part of the cleaned data in MS Sql Sever. You can access the full Power BI project document [here](MICROSOFT%20STOCK%20MARKET%20ANALYSIS.pbix).
+- Below is a screenshot of a part of the cleaned data in MS Sql Sever. You can access the complete Power BI project document [here](MICROSOFT%20STOCK%20MARKET%20ANALYSIS.pbix).
 
 Sql Query Screenshot                                                               |                       
 :---------------------------------------------------------------------------------:|
