@@ -96,7 +96,7 @@ Sql Query Screenshot                                                            
 :---------------------------------------------------------------------------------:|
 ![](images/MS_Sql_Server_Screenshot.png) 
 
-You can access the MS Sql Server query file [here](Microsoft_Stock_Market_Analysis_Project.sql)
+You can preview the MS Sql Server query file [here](Microsoft_Stock_Market_Analysis_Project.sql)
 
 
 
