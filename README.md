@@ -81,6 +81,7 @@ The dataset contains 1 sheet/table,  7columns, and 9,204 rows of data. The colum
 
 **Raw Data**
 - Below a screenshot of a part of the raw data in .csv file format. 
+
 Raw Data Screenshot                                                               |                       
 :---------------------------------------------------------------------------------:|
 ![](images/Raw_Data_image.png)
