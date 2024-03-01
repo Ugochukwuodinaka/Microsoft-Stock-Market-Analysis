@@ -58,8 +58,9 @@ The dataset contains 1 sheet/table,  7columns, and 9,204 rows of data. The colum
 1. MS Sql Server
     - Was used to:
         1. Extract,
-        2. Transform, and
-        3. Load all the datasets for this analysis.
+        2. Clean,
+        3. Transform, and
+        4. Load all the datasets for this analysis.
            
 2. Power BI (Was used to create reports and dashboard for this analysis)
     - The following Power BI Features were incorporated:
@@ -87,7 +88,13 @@ The dataset contains 1 sheet/table,  7columns, and 9,204 rows of data. The colum
 **Cleaned Data MS Sql query screenshot**
 - Below is a screenshot of a part of the cleaned data in MS Sql Sever. You can access the full Power BI project document [here](MICROSOFT%20STOCK%20MARKET%20ANALYSIS.pbix).
 
-![](images/MS_Sql_Server_Screenshot.png)
+Sql Query Screenshot                                                               |                       
+:---------------------------------------------------------------------------------:|
+![](images/MS_Sql_Server_Screenshot.png) 
+
+You can access the MS Sql Server query file [here](Microsoft_Stock_Market_Analysis_Project.sql)
+
+
 
 
 ## Data Modelling
