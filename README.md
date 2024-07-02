@@ -26,7 +26,7 @@ The __Microsoft Stock Market (1986-2022) Analysis__ project aims to delve into t
 - To identify Microsoft's stocks high, low, and close price trend over time.
 - To identify Microsoft's stocks prices cumulative returns trend over time.
 
-## Expected Outcomes:
+### Expected Outcomes:
 - Clear insights into monthly average opening prices, revealing historical trends and fluctuations.
 - Understanding of monthly average closing prices, highlighting historical patterns and variations.
 - Identification of trading volume patterns across weekdays, providing insights into market activity.
@@ -35,7 +35,7 @@ The __Microsoft Stock Market (1986-2022) Analysis__ project aims to delve into t
 <br />
 <br />
 
-### Dataset Overview
+## Dataset Overview
 This dataset contains a Stock Market Analysis of Microsoft Corporation (MSFT) from its Founding / Listing Years which are 1986 to 2022. In this dataset, daily price and the changes within the day can be seen. The highest and lowest prices for every single day help in identifying patterns at the minuscule level. Volume per day is also recorded. The dataset used in this analysis was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). You can also download this dataset [here](MSFT.csv). It is a .csv file of Microsoft Stock market trades between 1986 and 2022, displaying updates of OHLC (Open, High, Low, Close), Trading Date, Volume, and Adjusted Close. 
 
 The dataset contains 1 sheet/table,  7columns, and 9,204 rows of data. The columns includes:
