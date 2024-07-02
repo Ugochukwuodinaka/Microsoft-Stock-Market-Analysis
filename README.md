@@ -35,7 +35,7 @@ The __Microsoft Stock Market (1986-2022) Analysis__ project aims to delve into t
 <br />
 <br />
 
-## Dataset Overview
+### Dataset Overview
 This dataset contains a Stock Market Analysis of Microsoft Corporation (MSFT) from its Founding / Listing Years which are 1986 to 2022. In this dataset, daily price and the changes within the day can be seen. The highest and lowest prices for every single day help in identifying patterns at the minuscule level. Volume per day is also recorded. The dataset used in this analysis was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). You can also download this dataset [here](MSFT.csv). It is a .csv file of Microsoft Stock market trades between 1986 and 2022, displaying updates of OHLC (Open, High, Low, Close), Trading Date, Volume, and Adjusted Close. 
 
 The dataset contains 1 sheet/table,  7columns, and 9,204 rows of data. The columns includes:
@@ -91,6 +91,7 @@ Raw Data Screenshot                                                             
 ![](images/Raw_Data_image.png)
 
 You can preview the dataset [here](MSFT.csv).
+<br />
 <br />
 
 **Cleaned Data MS Sql query screenshot**
