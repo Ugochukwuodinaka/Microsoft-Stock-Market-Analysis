@@ -15,37 +15,39 @@
 ## Project Overview
 
 ### Introduction:
-Microsoft Corporation is an American multinational technology corporation which produces computer software, consumer electronics, personal computers, and related services headquartered at the Microsoft Redmond campus located in Redmond, Washington, United States. Its best-known software products are the Windows line of operating systems, the Microsoft Office suite, and the Internet Explorer and Edge web browsers. Its flagship hardware products are the Xbox video game consoles and the Microsoft Surface lineup of touchscreen personal computers. Microsoft ranked No. 21 in the 2020 Fortune 500 rankings of the largest United States corporations by total revenue; it was the world's largest software maker by revenue as of 2019. It is one of the Big Five American information technology companies, alongside Google, Amazon, Apple, and Meta.
+Microsoft Corporation is a U.S.-based American multinational technology corporation producing computer software, consumer electronics, personal computers, and related services headquartered at the Microsoft Redmond campus located in Redmond, Washington, United States. These lists include some well-known software products by Microsoft—the Windows line of operating systems, the Microsoft Office suite of productivity software, and the Internet Explorer and Edge web browsers. Best-selling hardware products are Xbox game consoles and the Microsoft Surface line of touchscreen personal computers. It was ranked No. 21 in the 2020 Fortune 500 rankings of the largest United States corporations by total revenues; it was the world's largest software maker by revenues as of 2019. This makes it one of the Big Five American information technology companies, alongside Alphabet, Amazon, Apple, and Meta.
 
-The __Microsoft Stock Market (1986-2022) Analysis__ project aims to delve into the historical performance of Microsoft Corporation's stock in the period spanning from its initial public offering (IPO) in 1986 to the end of 2022. This comprehensive analysis will provide insights into the long-term trends, volatility, key events, and factors influencing Microsoft's stock market performance over more than three decades.
+The **1986-2022 Microsoft Stock Market Analysis** is a project designed to derive insight into the historical performance of Microsoft Corporation stock from its IPO date in 1986 to the end of 2022. Such detailed analysis will answer questions relating to the long-term trends, volatility, newsworthy events, and factors that influenced the stock market performance of Microsoft over a period of more than three decades.
 
 ### Objectives:
-- To analyze the historical stock average open price by month.
-- To analyze the historical stock average close price by month.
-- To analyze the Microsoft stock volume traded bo days of the week.
-- To identify Microsoft's stocks high, low, and close price trend over time.
-- To identify Microsoft's stocks prices cumulative returns trend over time.
+- Calculate the average open price over time by month for the stock.
+- The historical stock average close price for each month has to be worked out.
+- To analyze Microsoft's stock volume, on days of the week.
+- To identify Microsoft's high, low, and close price trend of stock over time.
+- Determine the trend of Microsoft stock price cumulative returns over time.
 
 ### Expected Outcomes:
-- Clear insights into monthly average opening prices, revealing historical trends and fluctuations.
-- Understanding of monthly average closing prices, highlighting historical patterns and variations.
-- Identification of trading volume patterns across weekdays, providing insights into market activity.
-- Recognition of trends in high, low, and close prices over time, aiding in understanding stock performance dynamics.
-- Analysis of cumulative returns trend, offering insights into overall investment performance.
+- Gives clarity of the performance of average opening prices every month, the fluctuations, and the past records of it.
+- The monthly average closing prices elucidated by the Understanding of which represent historic patterns and fluctuation.
+- The specification of the volumes with relation to trading by the weekdays exhibits the level of market action.
+- It leads to a possibility of distinguishing the trends in the high, low, and close prices for some period, thereby assisting in the appreciation of the nature of stock volatility.
+- The graphs depicting the cumulative returns trend to have somewhat of an indication of the general performance of the investments.
 <br />
 <br />
 
 ### Dataset Overview
-This dataset contains a Stock Market Analysis of Microsoft Corporation (MSFT) from its Founding / Listing Years which are 1986 to 2022. In this dataset, daily price and the changes within the day can be seen. The highest and lowest prices for every single day help in identifying patterns at the minuscule level. Volume per day is also recorded. The dataset used in this analysis was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). You can also download this dataset [here](MSFT.csv). It is a .csv file of Microsoft Stock market trades between 1986 and 2022, displaying updates of OHLC (Open, High, Low, Close), Trading Date, Volume, and Adjusted Close. 
+This dataset contains a Stock Market Analysis of Microsoft Corporation (MSFT) from its Founding / Listing Years which are 1986 to 2022. In this dataset, daily price and the changes within the day can be seen. The highest and lowest prices for every single day help in identifying patterns at the minuscule level. Volume per day is also recorded. The dataset used in this analysis was provided by [Quantum Analytics](https://www.quantumanalyticsco.org/). You can also view the dataset [here](MSFT.csv). It is a .csv file of Microsoft Stock market trades between 1986 and 2022, displaying updates of OHLC (Open, High, Low, Close), Trading Date, Volume, and Adjusted Close. 
 
-The dataset contains 1 sheet/table,  7columns, and 9,204 rows of data. The columns includes:
-- __Open:__ The price at which a stock's first trade occurs when the market opens for the day. It indicates the starting point for trading activity and sets the initial value of the stock for that day.
-- __High:__ The highest price at which a stock traded during the trading day. It represents the peak value reached by the stock's price within the given timeframe.
-- __Low:__ The lowest price at which a stock traded during the trading day. It represents the lowest point reached by the stock's price within the given timeframe.
-- __Close:__ The price at which the last trade occurred when the market closed for the day. It indicates the final value of the stock for that trading session and is often considered significant for technical analysis and decision-making.
-- __Date:__ The date on which the trading activity occurred, providing a chronological reference for the stock market data.
-- __Volume:__ The total number of shares of a stock traded during a particular trading day. It indicates the level of activity or liquidity in the market for that stock on that day. Higher volume typically suggests increased investor interest or trading activity.
-- __Adjusted Close:__ The closing price of a stock adjusted for factors such as dividends, stock splits, or other corporate actions that may affect the stock's price. This adjusted value helps in providing a more accurate representation of the stock's true performance over time, particularly when comparing historical data.
+The dataset contains 1 sheet/table, 7 columns, and 9,204 rows of data. The data dictionary below expalns the data fields in this dataset:
+| Table                              | Field                    | Description                            |            
+|:-----------------------------------|:------------------------ |:-------------------------------------- |
+|MSFT.csv                            | Open                     | The price at which a stock's first trade occurs when the market opens for the day. It indicates the starting point for trading activity and sets the initial value of the stock for that day.  |
+|                                    | High                     | The highest price at which a stock traded during the trading day. It represents the peak value reached by the stock's price within the given timeframe.     |
+|                                    | Low                      | The lowest price at which a stock traded during the trading day. It represents the lowest point reached by the stock's price within the given timeframe.         |
+|                                    | Close                    | The price at which the last trade occurred when the market closed for the day. It indicates the final value of the stock for that trading session and is often considered significant for technical analysis and decision-making.         |
+|                                    | Date                     | The date on which the trading activity occurred, providing a chronological reference for the stock market data.        |
+|                                    | Volume                   | The total number of shares of a stock traded during a particular trading day. It indicates the level of activity or liquidity in the market for that stock on that day.         |
+|                                    | Adjusted Close           | The closing price of a stock adjusted for factors such as dividends, stock splits, or other corporate actions that may affect the stock's price. This adjusted value helps in providing a more accurate representation of the stock's true performance over time, particularly when comparing historical data.       |
 <br />
 <br />
 
