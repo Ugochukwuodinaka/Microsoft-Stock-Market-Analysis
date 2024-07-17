@@ -71,13 +71,12 @@ The dataset contains 1 sheet/table, 7 columns, and 9,204 rows of data. The data 
     - The following Power BI Features were incorporated:
         1. DAX
         2. Quick Measures
-        3. Page Navigation
-        4. Filters
-        5. Tooltips
+        3. Filters
+        4. Tooltips
 <br />
 
 ### Data Cleaning, Transformation and Loading using MS Sql Server:
-1. Changed all column data types to the appropriate data types.
+1. Changed all the field data types to the appropriate data types.
 2. Duplicated the __"Date"__ column.
 3. Created a new column __"Year"__ from the duplicate __Date__ column and changed the data type to int.
 4. Created a new custom column from the __"Date"__ column named __"DayOfWeek"__ (sunday - saturday) using the "Update" and "Set query".
@@ -97,8 +96,8 @@ You can preview the dataset [here](MSFT.csv).
 <br />
 
 **Cleaned Data MS Sql query screenshot**
-- Below is a screenshot of a part of the cleaned data in MS Sql Sever. You can access the complete Power BI project document [here](MICROSOFT%20STOCK%20MARKET%20ANALYSIS.pbix).
-
+- Below is a screenshot of a part of the data cleaning in MS Sql Sever.
+  
 Sql Query Screenshot                                                               |                       
 :---------------------------------------------------------------------------------:|
 ![](images/MS_Sql_Server_Screenshot.png) 
@@ -108,7 +107,7 @@ You can preview the MS Sql Server query file [here](Microsoft_Stock_Market_Analy
 <br />
 
 ## Data Modelling
-No data modelling was required since we need just a table for the analysis.
+No data modelling was required since we had a single table for the analysis.
 <br />
 <br />
 
@@ -132,12 +131,12 @@ From the analysis, i made the Key Performance findings below:
 - <img src="images/Volume_Traded_By_Day_Of_Week.jpg" width="250">
 
 - **Total Volume Traded By Days Of The Week Trend:**
-- In my analysis of the total volume traded by days of the week, i made interesting observations which was revealed through insights generated from the market activity patterns:
-- __Peak Trading Days:__  Wednesdays and Fridays consistently emerge as the busiest trading days, with total volumes of 111,675,072,600bn and 111,175,803,100bn respectively. This suggests heightened market participation and increased trading activity towards the middle and end of the week.
-- __Midweek Momentum:__ Wednesdays, in particular, stand out as the busiest trading day of the week. This midweek surge in trading volume may be attributed to factors such as the release of economic data, corporate earnings announcements, or investor positioning ahead of market-moving events.
-- __End-of-Week Activity:__ Fridays also witness significant trading volumes, likely driven by factors such as portfolio rebalancing, options expiry, and profit-taking ahead of the weekend. Traders may adjust their positions before the market closes for the week, contributing to the heightened activity on Fridays.
-- __Consistent Trends:__ Thursdays and Tuesdays follow closely behind Wednesdays and Fridays in terms of total trading volume with 109,479,054,400bn shares and 109,155,926,400bn shares traded respectively. This indicates a consistent level of market activity throughout the week, with traders actively participating in the market on these days as well.
-- __Monday Lag:__ Mondays exhibit relatively lower trading volumes compared to the rest of the week, with a total volume of 94,569,071,100bn. This could be attributed to factors such as the market digesting news and events over the weekend, leading to a slower start to the trading week.
+The following are some of the interesting observations that I have made in my analysis of the total volume traded by days of the week, through the insights generated from the market activity patterns.
+__Peak Trading Days__: Wednesdays and Fridays always turn out to form the days that have the highest volume of trades, with total volumes of 111,675,072,600bn and 111,175,803,100bn, respectively. This finding brings out the underpinning issue of heightened market participation and increased trading activities towards the middle and end of the week.
+- __Midweek Momentum:__ Tuesdays and Wednesdays, in particular, form the days of the week that record the highest trading volume. Such a surge in trading volume mid-week may be attributed to factors such as the release of economic data, corporate earnings announcements, or investor positioning ahead of market-moving events.
+- __End-of-Week Activity__: Fridays, too, experience high trading volumes, which may be caused by factors such as portfolio rebalancing, options expiry, or profit-taking ahead of the weekend. Traders would like to rebalance their position before the market closes for the week, which may add to the activity on Fridays.
+- __Consistent Trends:__ Thursdays and Tuesdays closely range with Wednesday and Friday in total trading volume at 109,479,054,400bn shares and 109,155,926,400bn shares, respectively. This shows the consistency of activities throughout the week as market participants engage themselves in the market on these days too.
+- __Monday Lag:__ Mondays do show a considerably lower trading volume against the other weekdays, with a total volume of 94,569,071,100bn. The reason could be many, such as the digestion of news events that occurred during the weekend, which sets off the trading week at a slower pace.
 <br />
 <br />
 
