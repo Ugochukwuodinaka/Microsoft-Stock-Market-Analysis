@@ -206,8 +206,8 @@ From the analysis, i made the Key Performance findings below:
 - __Continuous Growth:__ the stock price of Microsoft grew from $23.89 in 1986 to $50,233.47 in 2022. The nature of this positive trend in its stock price indicates that the firm has been doing great and has been innovative enough to top the technology market.
 - __Volatility:__ The stock prices of Microsoft show periods of volatility and fluctuations despite the overall upward trajectory. For instance, there are visible fluctuations in the first early years before later more stable growth in trajectory. The volatility, therefore, could be influenced by several factors such as market conditions, company earnings, and industry trends.
 - __Milestone Years:__ Within Microsot's several years of stock prices trend, includes a couple of trends that stand out from Microsoft's history. 1999 in particular, was a year of steep price growth to $11,029.22, while 2021 saw an increase in the value of the stock price to $69,537.07 in the past year due to great financial performance and inspired optimism among investors.
-– __Market Response:__ The stock prices of Microsoft respond to such crucial events and announcements as product launches, earnings reports, and strategic actions. Good news rockets the prices up, while negative news leads to abrupt but short-lived drops in its stocks.
-– __Long-Term Investment:__ Despite short-term fluctuations, Microsoft's stock price trend portrays an overall trend that proves the company's long-term resilience and growth potential. 
+- __Market Response:__ The stock prices of Microsoft respond to such crucial events and announcements as product launches, earnings reports, and strategic actions. Good news rockets the prices up, while negative news leads to abrupt but short-lived drops in its stocks.
+- __Long-Term Investment:__ Despite short-term fluctuations, Microsoft's stock price trend portrays an overall trend that proves the company's long-term resilience and growth potential. 
 <br />
 <br />
 
