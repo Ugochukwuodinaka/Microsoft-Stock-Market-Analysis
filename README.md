@@ -229,4 +229,4 @@ You can view and interact with this dashboard report on Microsoft Stock Market (
 <br />
 
 ## Thank You For Following Through!
-![](images/Thank%20you.jpg)
+![](images/Thank_you.jpg)
