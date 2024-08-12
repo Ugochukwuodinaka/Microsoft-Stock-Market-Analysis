@@ -62,10 +62,8 @@ The dataset contains 1 sheet/table, 7 columns, and 9,204 rows of data. The data 
 ### Tools Used
 1. MS Sql Server
     - Was used to:
-        1. Extract,
-        2. Clean,
-        3. Transform, and
-        4. Load all the datasets for this analysis.
+        1. Clean
+        2. Transform the datasets for this analysis.
            
 2. Power BI (Was used to create reports and dashboard for this analysis)
     - The following Power BI Features were incorporated:
