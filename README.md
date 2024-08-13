@@ -74,12 +74,12 @@ The dataset contains 1 sheet/table, 7 columns, and 9,204 rows of data. The data 
 <br />
 
 ### Data Cleaning, Transformation and Loading using MS Sql Server:
-1. Changed all the field data types to the appropriate data types.
+1. Made sure that all the data types of the tables in this dataset are of the right data type.
 2. Duplicated the __"Date"__ column.
-3. Created a new column __"Year"__ from the duplicate __Date__ column and changed the data type to int.
-4. Created a new custom column from the __"Date"__ column named __"DayOfWeek"__ (sunday - saturday) using the "Update" and "Set query".
-5. Removed the initial duplicate column __"New_Date" __created from the __"Date"__ column.
-6. Made sure that there was no columns with error or null values, and made sure all columns were valid.
+3. Created a new column __"Year"__ from the duplicate __"Date"__ column and changed the data type to int.
+4. Created a new custom column from the __"Date"__ column named __"DayOfWeek"__ (sunday - saturday) using the _"Update"_ and _"Set query"_.
+5. Removed the initial duplicate column __"New_Date"__ created from the __"Date"__ column.
+6. Made sure that there were no columns with error, null values, or were valid.
 <br />
 
 **Raw Data**
